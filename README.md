@@ -17,9 +17,9 @@ Gruplandırılmış Sütun Grafiği
 
 Hazırlayanlar:
 
-Havva SAVCI
+-Havva SAVCI
 
-Aleyna Nur Canbolat
+-Aleyna Nur Canbolat
 
 
 Kullanım:
