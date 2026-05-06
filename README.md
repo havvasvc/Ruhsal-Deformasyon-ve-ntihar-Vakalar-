@@ -4,7 +4,7 @@ Bu proje,
 Türkiyedeki intihar verilerini çeşitli görselleştirme teknikleri kullanarak analiz etmeyi sağlıyor.
 
 
-Proje Hakkında:
+##Proje Hakkında:
 
 Bu proje, veri görselleştirme teknolojilerini kullanarak inithar vakalarını analiz eden bir çalışmadır. Proje, aşağıdaki görselleştirme tekniklerini içermektedir
 Isı Haritası
