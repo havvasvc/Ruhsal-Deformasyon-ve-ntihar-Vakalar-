@@ -3,7 +3,8 @@ Ruhsal Deformasyon ve İntihar Vakaları
 Bu proje, 
 Türkiyedeki intihar verilerini çeşitli görselleştirme teknikleri kullanarak analiz etmeyi sağlıyor.
 
-Proje Hakkında
+
+Proje Hakkında:
 
 Bu proje, veri görselleştirme teknolojilerini kullanarak inithar vakalarını analiz eden bir çalışmadır. Proje, aşağıdaki görselleştirme tekniklerini içermektedir
 Isı Haritası
@@ -13,11 +14,14 @@ Pasta Grafiği
 Çizgi Grafiği
 Gruplandırılmış Sütun Grafiği 
 
-Hazırlayanlar
+
+Hazırlayanlar:
 
 Havva SAVCI
+
 Aleyna Nur Canbolat
 
-Kullanım
+
+Kullanım:
 
 Her bir görselleştirme sistemi için ilgili kodları çalıştırarak sonuçları görüntüleyebilirsiniz. Veri seti CSV biçiminde olduğu için, herhangi bir veri analizi aracı ile açılabilir ve işlenebilir.
