@@ -5,8 +5,7 @@ Türkiyedeki intihar verilerini çeşitli görselleştirme teknikleri kullanarak
 
 Proje Hakkında
 
-Bu proje, veri görselleştirme teknolojilerini kullanarak inithar vakalarını analiz eden bir çalışmadır. Proje, aşağıdaki görselleştirme tekniklerini içermektedir:
-
+Bu proje, veri görselleştirme teknolojilerini kullanarak inithar vakalarını analiz eden bir çalışmadır. Proje, aşağıdaki görselleştirme tekniklerini içermektedir
 Isı Haritası
 Ölçeklendirilmiş Çizgi Grafiği
 Sütun Grafiği
