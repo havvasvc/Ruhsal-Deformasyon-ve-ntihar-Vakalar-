@@ -1,4 +1,6 @@
-- **E-posta:** [havva23savci33@gmail.com](mailto:havva23savci33@gmail.com)
+- **E-posta:**
+- [havva23savci33@gmail.com](mailto:havva23savci33@gmail.com)
 - [aleynacnblt40@gmail.com](mailto:aleynacnblt40@gmail.com)
-- **LinkedIn:** [Havva Savcı](https://www.linkedin.com/in/havva-savcı-3a8a8b1a2)
-  [Aleyna Nur Canbolat](https://www.linkedin.com/in/aleyna-nur-canbolat-9486b4344/)
+- **LinkedIn:**
+- [Havva Savcı](https://www.linkedin.com/in/havva-savcı-3a8a8b1a2)
+- [Aleyna Nur Canbolat](https://www.linkedin.com/in/aleyna-nur-canbolat-9486b4344/)
